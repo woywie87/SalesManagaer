@@ -1,0 +1,309 @@
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\x86\sqlite3.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\x64\sqlite3.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\Sales_WPF.exe.config
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\Sales_WPF.exe
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\Sales_WPF.pdb
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\MahApps.Metro.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLite-net.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLite.Net.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLitePCL.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\MahApps.Metro.xml
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLite-net.pdb
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\SQLite-net.xml
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\MainWindow.g.cs
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\App.g.cs
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF_Content.g.cs
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.cache
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.lref
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\App.baml
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\MainWindow.baml
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.g.resources
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.Properties.Resources.resources
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csproj.GenerateResource.Cache
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.exe
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.pdb
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\ControlzEx.dll
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\bin\Release\ControlzEx.pdb
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csprojAssemblyReference.cache
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\ReportDetail.g.cs
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\ReportDetail.baml
+C:\Users\pitcairn\source\repos\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csproj.CopyComplete
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\x86\sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\x64\sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\Sales_WPF.exe.config
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\Sales_WPF.exe
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\Sales_WPF.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\ControlzEx.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLite-net.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLite.Net.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLitePCL.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\ControlzEx.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLite-net.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\bin\Release\SQLite-net.xml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF.csprojAssemblyReference.cache
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\CustomReportsExtendWindow.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\MainWindow.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\ReportDetail.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\App.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF_Content.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.cache
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.lref
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\App.baml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\CustomReportsExtendWindow.baml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\MainWindow.baml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\ReportDetail.baml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF.g.resources
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF.Properties.Resources.resources
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF.csproj.GenerateResource.cache
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF.csproj.CopyComplete
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF.exe
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)\Sales_WPF\obj\Release\Sales_WPF.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\x86\sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\x64\sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\Sales_WPF.exe.config
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\Sales_WPF.exe
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\Sales_WPF.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\ControlzEx.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLite-net.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLite.Net.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLitePCL.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\ControlzEx.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLite-net.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\bin\Release\SQLite-net.xml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF.csprojAssemblyReference.cache
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\CustomReportsExtendWindow.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\MainWindow.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\ReportDetail.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\App.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF_Content.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.cache
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.lref
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\App.baml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\CustomReportsExtendWindow.baml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\MainWindow.baml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\ReportDetail.baml
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF.g.resources
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF.Properties.Resources.resources
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF.csproj.GenerateResource.cache
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF.csproj.CopyComplete
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF.exe
+C:\Users\pitcairn\Downloads\Sales_WPF(2)(1)(1)\Sales_WPF\obj\Release\Sales_WPF.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\x86\sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\x64\sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\Sales_WPF.exe.config
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\Sales_WPF.exe
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\Sales_WPF.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\ControlzEx.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLite-net.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLite.Net.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLitePCL.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\ControlzEx.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLite-net.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\SQLite-net.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csprojAssemblyReference.cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\CustomReportsExtendWindow.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\MainWindow.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\ReportDetail.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\App.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF_Content.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.lref
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\App.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\CustomReportsExtendWindow.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\MainWindow.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\ReportDetail.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.g.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.Properties.Resources.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csproj.GenerateResource.cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csproj.CopyComplete
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.exe
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\x86\sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\x64\sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\Sales_WPF.exe.config
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\Sales_WPF.exe
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\Sales_WPF.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\ControlzEx.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.Wpf.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLite-net.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLite.Net.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLitePCL.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\ControlzEx.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.xml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.Wpf.xml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLite-net.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\SQLite-net.xml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\bin\Release\System.Windows.Interactivity.xml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csprojAssemblyReference.cache
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\CustomReportsExtendWindow.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\MainWindow.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\ReportDetail.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\App.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF_Content.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.cache
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.lref
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\App.baml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\CustomReportsExtendWindow.baml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\MainWindow.baml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\ReportDetail.baml
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.g.resources
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.Properties.Resources.resources
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csproj.GenerateResource.cache
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.csproj.CopyComplete
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.exe
+C:\Users\pitcairn\Downloads\Sales_WPF\Sales_WPF\obj\Release\Sales_WPF.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.Wpf.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Sales_WPF\Sales_WPF\bin\Release\LiveCharts.Wpf.xml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\x86\sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\x64\sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\Sales_WPF.exe.config
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\Sales_WPF.exe
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\Sales_WPF.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\ControlzEx.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\LiveCharts.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\LiveCharts.Wpf.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLite-net.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLite.Net.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLitePCL.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\ControlzEx.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\LiveCharts.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\LiveCharts.xml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\LiveCharts.Wpf.xml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLite-net.pdb
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\bin\Release\SQLite-net.xml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF.csprojAssemblyReference.cache
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\CustomReportsExtendWindow.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\MainWindow.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\ReportDetail.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\App.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF_Content.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.cache
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF_MarkupCompile.lref
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\App.baml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\CustomReportsExtendWindow.baml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\MainWindow.baml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\ReportDetail.baml
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF.g.resources
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF.Properties.Resources.resources
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF.csproj.GenerateResource.cache
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF.csproj.CopyComplete
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF.exe
+C:\Users\pitcairn\Downloads\Sales_WPF_2\Sales_WPF\obj\Release\Sales_WPF.pdb

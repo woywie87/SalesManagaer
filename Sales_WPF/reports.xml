@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<reports>
+  
+    <report>
+      <id>1</id>
+      <title>Customreport</title>
+      <query>
+	  select * from Products  
+	  </query>
+   </report>
+   
+      <report>
+      <id>2</id>
+      <title>Customreport 2</title>
+      <query>
+	  select * from Events	  
+	  </query>
+   </report>
+   
+	
+
+</reports>
